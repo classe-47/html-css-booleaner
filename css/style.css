@@ -1,0 +1,30 @@
+/* ***** commons ***** */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    /* margin:auto; */
+}
+
+.container-md {
+    width: 80%;
+    margin:auto;
+}
+
+/* ***** header ***** */
+header {
+    height: 100px;
+    background-image: url("../img/pattern.png");
+    background-color: #7fa6fb;
+    background-size: 25%;
+}
+
+#logo {
+    height: 50px;
+    margin-top: 40px;
+}
