@@ -43,3 +43,11 @@ header {
     color: grey;
     font-size:12px;
 }
+
+.photo {
+    margin-top:20px;
+}
+
+.caption {
+    font-size: 12px;
+}
