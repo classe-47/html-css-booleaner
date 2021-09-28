@@ -31,6 +31,12 @@ header {
 
 /* ***** main ***** */
 
+
+#descrizione, #tabella {
+    margin-top: 20px;
+}
+
+
 /* sezione titolo */
 .author {
     color:grey;
@@ -58,10 +64,7 @@ h1 {
 }
 
 /* sezione descrizione */
-#descrizione {
-    margin-top: 20px;
-    /* background-color: rgb(235, 232, 232); */
-}
+
 
 .evidenziato {
     background-color: yellow;
@@ -70,4 +73,25 @@ h1 {
 .elenco {
     margin-top: 20px;
     margin-left: 40px;
+}
+
+/* sezione tabella */
+
+table {
+    border-spacing: 0;
+    margin-bottom: 20px;
+}
+
+thead {
+    background-color: #7fa6fb;
+    color: white;
+    text-align:left;
+}
+
+.col3 {
+    width: 60%;
+}
+
+.odd {
+    background-color: #c4edfd;
 }
