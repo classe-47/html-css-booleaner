@@ -95,3 +95,36 @@ thead {
 .odd {
     background-color: #c4edfd;
 }
+
+/* ***** footer ***** */
+
+footer {
+    margin-top: 20px;
+}
+
+footer h3 {
+    font-size:16px;
+    color:grey;
+}
+
+.image {
+    width: 270px;
+    height: 208px;
+    padding: 20px;
+    margin: 8px 0;
+}
+
+.image h3 {
+    color: white;
+}
+
+#image-monitor {
+    background-image: url("../img/monitor.jpg");
+}
+
+#image-graph {
+    background-image: url("../img/graph.jpg");
+}
+
+
+
