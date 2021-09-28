@@ -31,6 +31,7 @@ header {
 
 /* ***** main ***** */
 
+/* sezione titolo */
 .author {
     color:grey;
 }
@@ -50,4 +51,23 @@ header {
 
 .caption {
     font-size: 12px;
+}
+h1 {
+    font-size:40px;
+    margin-top: 20px;
+}
+
+/* sezione descrizione */
+#descrizione {
+    margin-top: 20px;
+    /* background-color: rgb(235, 232, 232); */
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+.elenco {
+    margin-top: 20px;
+    margin-left: 40px;
 }
